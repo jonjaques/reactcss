@@ -49,7 +49,7 @@
     "mocha": "^2.2.1",
     "mocha-sinon": "^1.1.5",
     "normalize.css": "^4.1.1",
-    "react-addons-test-utils": "^0.14.0 || ^15.0.0",
+    "react-addons-test-utils": "^15.0.0",
     "react-hot-loader": "^1.2.5",
     "react-map-styles": "git://github.com/casesandberg/react-map-styles",
     "remarkable": "^1.6.0",
